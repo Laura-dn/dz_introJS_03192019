@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    background: pink url(elka.png) 0 0 no-repeat;
+    background-size: contain;
+}
+
+section {
+    font-family: 'Allura', cursive;
+    display: flex;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+    font-size: 6em;
+    text-shadow: black 0 0 2px;
+    color: red;
+}
